@@ -16,7 +16,7 @@ javafx {
     modules = [ 'javafx.controls' ]
 }
 application {
-    mainClassName("UI.show")
+    mainClassName("UI.Application")
 }
 
 dependencies {
