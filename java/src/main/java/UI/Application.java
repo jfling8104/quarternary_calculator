@@ -59,6 +59,10 @@ public class Application extends javafx.application.Application {
                 gridPane.add(button,j,i);
             }
         }
+            numberButton[0].setOnAction((event) -> display.setText("0"));
+            numberButton[1].setOnAction((event) -> display.setText("1"));
+            numberButton[2].setOnAction((event) -> display.setText("2"));
+            numberButton[3].setOnAction((event) -> display.setText("3"));
         return gridPane;
     }
 }
