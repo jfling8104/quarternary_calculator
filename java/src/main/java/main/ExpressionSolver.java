@@ -1,7 +1,7 @@
 package main;
 
 public class ExpressionSolver {
-    public ExpressionSolver() {
+    private ExpressionSolver() {
         throw new UnsupportedOperationException("This class only contains Static methods and there is no need to instantiate it");
     }
 
