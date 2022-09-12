@@ -26,5 +26,5 @@ Ryan: Helped create math functions for calculator
 John: Helped create math functions for calculator
 John: Created Test file and first unit tests
 Robert: Created rest of unit tests
-Jay/John: updated readme
+Jay/John: updated README
 
