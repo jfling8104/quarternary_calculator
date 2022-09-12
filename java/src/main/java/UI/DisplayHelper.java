@@ -19,7 +19,7 @@ public class DisplayHelper {
 
     public void compute() {
         try {
-            this.displayValue = String.valueOf(ExpressionSolver.solve(this.displayValue));
+            this.displayValue = Integer.toString(ExpressionSolver.solve(this.displayValue),4);
         } catch (Exception ex) {
             this.displayValue = "Error";
         }
