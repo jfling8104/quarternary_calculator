@@ -1,7 +1,7 @@
 package main;
 
 public class ExpressionSolver {
-    private ExpressionSolver() {
+    public ExpressionSolver() {
         throw new UnsupportedOperationException("This class only contains Static methods and there is no need to instantiate it");
     }
 
@@ -35,7 +35,7 @@ public class ExpressionSolver {
 
     }
 
-    private static int subtraction(String a, String b) {
+    public static int subtraction(String a, String b) {
 
         return Integer.parseInt(String.valueOf(a), 4) - Integer.parseInt(String.valueOf(b), 4);
 
