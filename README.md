@@ -28,3 +28,5 @@ John: Created Test file and first unit tests
 Robert: Created rest of unit tests
 Jay/John: updated README
 
+
+![Calc Screenshot](https://user-images.githubusercontent.com/70335886/189565573-4a0b5e65-b1fb-44a1-b7cf-95e269b1f869.png)
